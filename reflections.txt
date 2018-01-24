@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned? --> I have learned how to navigate with relative and absolute paths better than before. (Already knew some of the HTML, CSS basics.)
+  * What has been easy? --> So far the tree structure (Which has been a really well done tutorial by the by!), the good structuring of code and how to properly space out code to make reading which are siblings, child, and parents are easier.
+  * What has been difficult? Even as a experienced (to some degree.) there are always new things to learn. A few tags to be used in HTML were completely unknown to me, and it was good trying to make sense of implementing the tags properly in my work.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far? Definitely using resources such as MDN, but I have been a fan of google'ing with dedicated sites like stackoverflow. However, because of this course, I found great use in finally trying out MDN!
+
+---
+
+Your response goes here!
+
+  * What new skills have you learned? --> I have learned how to navigate with relative and absolute paths better than before. (Already knew some of the HTML, CSS basics.)
+  * What has been easy? --> So far the tree structure (Which has been a really well done tutorial by the by!), the good structuring of code and how to properly space out code to make reading which are siblings, child, and parents are easier.
+  * What has been difficult? --> Even as a experienced (to some degree.) there are always new things to learn. A few tags to be used in HTML were completely unknown to me, and it was good trying to make sense of implementing the tags properly in my work.
+  * How have you used the problem --> solving strategies from the first project to overcome challenges so far? Definitely using resources such as MDN, but I have been a fan of google'ing with dedicated sites like stackoverflow. However, because of this course, I found great use in finally trying out MDN!
