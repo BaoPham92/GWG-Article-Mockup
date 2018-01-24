@@ -1,0 +1,1 @@
+# GWG-Article-Mockup
